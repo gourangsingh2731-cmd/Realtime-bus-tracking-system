@@ -64,4 +64,4 @@ flutter run
 ## 👨‍💻 Author
 
 **Anurag Shukla**
-GitHub: https://github.com/gourangsingh2731-cmd
+GitHub: github.com/gourangs031
