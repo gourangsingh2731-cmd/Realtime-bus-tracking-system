@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382460455687",
+    "project_id": "college-bus-app-1c55e",
+    "storage_bucket": "college-bus-app-1c55e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382460455687:android:b1d98e1c5b635dbb4d33a2",
+        "android_client_info": {
+          "package_name": "com.example.college_bus_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp2jvt1gmV_2rFTiQ-3TkUhOReJ3vcqEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
